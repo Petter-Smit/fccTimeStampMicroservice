@@ -1,3 +1,4 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This is the completed Timestamp Microservice project code for Petter Smit.
+Instead of splitting the api into two parts, one for /api/:date and one for /api, I combined the two and simply check if the date is defined or not.
